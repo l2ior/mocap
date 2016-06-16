@@ -1,6 +1,5 @@
 % Demo clust-based methods using mocap data
 clear all; close all; addpaths;
-addpath('../func');
 
 cnt = 0;
 pps = []; % people pair list
